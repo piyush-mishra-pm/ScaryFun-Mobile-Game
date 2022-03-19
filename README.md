@@ -11,23 +11,23 @@ Over 4 hours of unique gameplay, and then endless rounds of Scary-Fun.
 ## Features:
 
 * Menu Screens: Missions, Achievements, Shop, Currency Generation, etc.</br>
-<img src="https://drive.google.com/uc?export=view&id=1V601ksf_3ZbEofTo74OpqRjewHuViBMf" width="50%" height="50%">
+  <img src="https://github.com/piyush-mishra-datastore/scary-fun-ds/blob/main/GIFs/Menu%20Screens.gif?raw=true" width="50%" height="50%">
 
 </br></br>
 
 * 3 different environments: Ruins, Caves and Castle.
   | Ruins | Cave | Castle |
   | --- | --- | --- |
-  | ![Jungle-GIF](https://drive.google.com/uc?export=view&id=1AwZQaSBzDZy7xv0hAD1ESRU0XxkFGTKA) | ![Caves-GIF](https://drive.google.com/uc?export=view&id=1fua8ZduJ2A8LHuV8n4XnaKDqg1xXwgv3) | ![Castle-GIF](https://drive.google.com/uc?export=view&id=1JC4lA5YaDYaHtds5xP10zZp_Esydbyvm) |
+  | ![Jungle-GIF](https://github.com/piyush-mishra-datastore/scary-fun-ds/blob/main/GIFs/Jungle-1.gif?raw=true) | ![Caves-GIF](https://github.com/piyush-mishra-datastore/scary-fun-ds/blob/main/GIFs/Cave-1.gif?raw=true) | ![Castle-GIF](https://github.com/piyush-mishra-datastore/scary-fun-ds/blob/main/GIFs/Castle-1.gif?raw=true) |
 </br></br>
 
 * Responsive player controller: Jump, Slide, change lanes.
-  ![Responsive player controls-GIF](https://drive.google.com/uc?export=view&id=1KvtRuS5vYFJlFo-_z26OF8SOov01sbJO)
+  ![Responsive player controls-GIF](https://github.com/piyush-mishra-datastore/scary-fun-ds/blob/main/GIFs/Controls.gif?raw=true)
   </br></br>
 
 * Death is not the end! Buy life or Watch Ads (😉)
 * 
-  ![Dealing with death! -GIF](https://drive.google.com/uc?export=view&id=1URvfl4JH78uGm_0zlVUdhV_oUkpxKayj)
+  ![Dealing with death! -GIF](https://github.com/piyush-mishra-datastore/scary-fun-ds/blob/main/GIFs/Death.gif?raw=true)
   </br></br>
   
 * 10 different unique levels, progressing in difficulty to continuously challenge the player.
@@ -37,7 +37,7 @@ Over 4 hours of unique gameplay, and then endless rounds of Scary-Fun.
 * 2 Immersive and dynamic audio tracks, to create an immersive experience.
 * Boss (Vampire) with 4 different types and 4 different difficulty levels of attacks. Only some shown below.
 
-  ![Dealing with death! -GIF](https://drive.google.com/uc?export=view&id=143lk0kNrrgCeB1WwZRbge2ZjFUzjSQQF)
+  ![Dealing with death! -GIF](https://github.com/piyush-mishra-datastore/scary-fun-ds/blob/main/GIFs/bOSS-1.gif?raw=true)
   </br></br>
 
 ## My Role: Coder, Game Designer and Artist.

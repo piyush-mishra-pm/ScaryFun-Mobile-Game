@@ -26,7 +26,6 @@ Over 4 hours of unique gameplay, and then endless rounds of Scary-Fun.
   </br></br>
 
 * Death is not the end! Buy life or Watch Ads (😉)
-* 
   ![Dealing with death! -GIF](https://github.com/piyush-mishra-datastore/scary-fun-ds/blob/main/GIFs/Death.gif?raw=true)
   </br></br>
   
@@ -38,6 +37,7 @@ Over 4 hours of unique gameplay, and then endless rounds of Scary-Fun.
 * Boss (Vampire) with 4 different types and 4 different difficulty levels of attacks. Only some shown below.
 
   ![Dealing with death! -GIF](https://github.com/piyush-mishra-datastore/scary-fun-ds/blob/main/GIFs/bOSS-1.gif?raw=true)
+
   </br></br>
 
 ## My Role: Coder, Game Designer and Artist.
